@@ -23,6 +23,7 @@ import java.util.Set;
 
 
 
+
 import javax.activation.DataHandler;
 import javax.activation.DataSource;
 import javax.activation.FileDataSource;
@@ -54,6 +55,8 @@ import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 
 
+
+import com.True.pagehelper.LoginHelper;
 import com.thoughtworks.selenium.Selenium;
 
 public abstract class DriverTestCase 
@@ -65,7 +68,7 @@ public abstract class DriverTestCase
 	//Define objects
 	private WebDriver driver;
 	private Selenium selenium;
-	
+	protected LoginHelper loginHelper;
 	
 	
     

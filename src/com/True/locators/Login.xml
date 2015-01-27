@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locator>
+<userName><![CDATA[//input[contains(@name,'email')]]]></userName>
+<password><![CDATA[//input[contains(@name,'password')]]]></password>
+<loginBtn><![CDATA[//input[contains(@class,'submit')]]]></loginBtn>
+<emailError><![CDATA[//*[@id='email-error']]]></emailError>
+<passwordErrorMsg><![CDATA[//*[@id='password-error']]]></passwordErrorMsg>
+<forgetYourPassword><![CDATA[link=Forgot your password?]]></forgetYourPassword>
+<termOfService><![CDATA[link=Terms of Service]]></termOfService>
+<privacyPolicy><![CDATA[link=Privacy Policy.]]></privacyPolicy>
+<verifyTermofService><![CDATA[//*[@id='content']/div/div/div[1]/div/h3]]></verifyTermofService>
+<verifyPrivacyPolicy><![CDATA[//*[@id='content']/div/div/div[1]/div/h3]]></verifyPrivacyPolicy>
+<signInWithFacebook><![CDATA[link=Sign in with Facebook]]></signInWithFacebook>
+<invalidPasswordMsg><![CDATA[//*[@id='content']/div/div[1]]]></invalidPasswordMsg>
+<!--><![CDATA[]]><>
+<><![CDATA[]]></-->
+</locator>

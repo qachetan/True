@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45687" started-at="2015-01-27T08:42:28Z" finished-at="2015-01-27T08:43:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45687" started-at="2015-01-27T08:42:28Z" finished-at="2015-01-27T08:43:14Z">
+      <class name="com.True.scripts.Login">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.True.scripts.Login@12f8578]" name="setUp" is-config="true" duration-ms="5975" started-at="2015-01-27T14:12:22Z" finished-at="2015-01-27T14:12:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:com.True.scripts.Login@12f8578]" name="testLogin" duration-ms="45664" started-at="2015-01-27T14:12:28Z" finished-at="2015-01-27T14:13:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="endMethods()[pri:0, instance:com.True.scripts.Login@12f8578]" name="endMethods" is-config="true" duration-ms="8" started-at="2015-01-27T14:13:14Z" finished-at="2015-01-27T14:13:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endMethods -->
+        <test-method status="PASS" signature="afterMainMethod()[pri:0, instance:com.True.scripts.Login@12f8578]" name="afterMainMethod" is-config="true" duration-ms="220" started-at="2015-01-27T14:13:14Z" finished-at="2015-01-27T14:13:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMainMethod -->
+      </class> <!-- com.True.scripts.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
